@@ -123,7 +123,7 @@ export default function Sobre() {
         </div>
 
         <div className="vought-content" style={{ maxWidth: "1100px", margin: "2.5rem auto 4rem" }}>
-          {/* Quem Sou */}
+          
           <div className="vought-block">
             <div className="vought-block-label">
               <span className="vought-block-label-tag">Identidade</span>
@@ -177,7 +177,7 @@ export default function Sobre() {
             </div>
           </div>
 
-          {/* Stack do portfólio */}
+          
           <div className="vought-block">
             <div className="vought-block-label">
               <span className="vought-block-label-tag">Stack</span>
@@ -192,7 +192,7 @@ export default function Sobre() {
             </div>
           </div>
 
-          {/* Áreas de Interesse */}
+          
           <div className="vought-block">
             <div className="vought-block-label">
               <span className="vought-block-label-tag">Foco</span>

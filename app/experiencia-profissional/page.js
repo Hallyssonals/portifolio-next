@@ -191,7 +191,7 @@ export default function ExperienciaProfissional() {
         <div className="vought-wrapper">
           <div className="job-card">
 
-            {/* Header */}
+            
             <div className="job-card-header">
               <div>
                 <span className="job-card-tag">Cargo Atual</span>
@@ -201,10 +201,10 @@ export default function ExperienciaProfissional() {
               <span className="job-card-badge">▶ Em Atividade</span>
             </div>
 
-            {/* Body */}
+            
             <div className="job-card-body">
 
-              {/* Atividades */}
+              
               <div className="job-card-col">
                 <div className="job-col-title">Atividades</div>
                 <ul className="activity-list">
@@ -226,7 +226,7 @@ export default function ExperienciaProfissional() {
                 </ul>
               </div>
 
-              {/* Competências */}
+              
               <div className="job-card-col">
                 <div className="job-col-title">Competências</div>
                 <div className="vought-tag-list">

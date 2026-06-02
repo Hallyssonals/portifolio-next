@@ -192,7 +192,7 @@ export default function ExperienciaAcademica() {
             </p>
           </div>
 
-          {/* Conhecimentos */}
+          
           <div className="vought-card">
             <span className="vought-card-tag">Currículo</span>
             <h2 className="vought-card-title">Conhecimentos Desenvolvidos</h2>
@@ -203,7 +203,7 @@ export default function ExperienciaAcademica() {
             </div>
           </div>
 
-          {/* Certificações */}
+          
           <div className="vought-card">
             <span className="vought-card-tag">Certificados</span>
             <h2 className="vought-card-title">Certificações &amp; Cursos</h2>
